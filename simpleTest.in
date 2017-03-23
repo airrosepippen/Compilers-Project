@@ -1,0 +1,51 @@
+bool
+int
+void
+true
+false
+struct
+cin
+cout
+if
+else
+while
+return
+""
+"this is another sentence"
+"&!88"
+"use \n to denote a newline character"
+"include a quote like this \" and a backslash like this \\"
+"this is valid \n as well"
+"\t fox \n jumps \" moon"
+"some other symbols ,.<>!@#$%^&*()"
+{
+}
+(
+)
+;
+,
+.
+<<
+>>
+++
+--
++
+-
+*
+/
+!
+&&
+||
+==
+!=
+<
+>
+<=
+>=
+=
+1
+123
+Bear_Down_Chicago_Bears
+The_Warriors_Blew_a_3_to_1_lead
+_
+_test_underscores_
